@@ -2,7 +2,7 @@
 
 Informatics and Computing Engineering student at FEUP, focused on Machine Learning, Data Science and Quantitative methods.
 
-Solid foundation in algorithms and applied ML: Python, C/C++, SQL, scikit-learn, Pandas, NumPy, Git, Docker. Open to a curricular internship for the second semester of 2026/27, and to Machine Learning, Data Science or Quantitative roles from 2027.
+Solid foundation in algorithms and applied ML: Python, C/C++, SQL, scikit-learn, Pandas, NumPy, Git, Docker.
 
 #### Projects
 
