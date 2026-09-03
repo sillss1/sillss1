@@ -17,11 +17,16 @@ full-stack Laravel 12 / PostgreSQL platform whose business rules are enforced by
 triggers, with GIN full-text search and TOTP two-factor authentication. I built the
 authentication, authorization policies and admin layer. Second-largest contributor of four.
 
-[Tongue Diagnosis - ML Classifier](https://github.com/sillss1/tongue-diagnosis-ml):
+[Pallet Packing Optimization](https://github.com/sillss1/pallet-packing-optimization):
+constrained 0/1 knapsack solved four ways (exhaustive backtracking, dynamic programming,
+greedy, ILP) and benchmarked for optimality against runtime. I wrote the exhaustive and DP
+solvers. C++, Python/OR-Tools.
+
+[Tongue Diagnosis - ML Classifier](https://github.com/sillss1/tongue-diagnosis-classifier):
 multi-label Random Forest classifier with SHAP explainability. I built the entire Streamlit
 application layer. Python, scikit-learn, SHAP.
 
-[Pancake Sorting - AI Search Solver](https://github.com/sillss1/pancake-sorting-ai-solver):
+[Pancake Sorting - AI Search Solver](https://github.com/sillss1/pancake-sorting-solver):
 7 search algorithms (BFS, DFS, IDS, UCS, Greedy, A star, Weighted A star) with 4 informed
 heuristics and a pygame GUI. I built the search metrics instrumentation, file I/O and hint
 solver. Python.
