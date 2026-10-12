@@ -6,6 +6,15 @@ Science and Quantitative methods.
 Solid foundation in algorithms and applied ML: Python, C/C++, SQL, scikit-learn, Pandas,
 NumPy, Git, Docker.
 
+#### Side project
+
+[brain-dash](https://github.com/sillss1/brain-dash): a Claude Code mod that keeps a small
+dashboard beside the code. It shows how much context the session has left and roughly how many
+turns that is, the 5-hour and weekly plan limits projected to the next reset, and a 21-day
+deadline radar read from a plain DEADLINES.md. Built with Claude Code: I defined what it does
+and how it looks, and Claude wrote most of the code. Covered by 24 tests plus an end-to-end
+run in a real session. MIT.
+
 #### Projects
 
 [Register Allocation Tool](https://github.com/sillss1/register-allocation-tool): compiler
